@@ -1,0 +1,84 @@
+body{
+	margin:0;
+	padding: 0;
+}
+section{
+	width: 800px;
+	overflow: hidden;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+
+}
+.color{background-color: blue;
+	height: 100%;
+}
+.box1{
+	height: 130px;
+	width: 33.33%;
+	box-sizing: border-box;
+	float: left;
+	padding: 2px;
+}
+.box1{
+	height: 130px;
+	width: 33.33%;
+	box-sizing: border-box;
+	float: left;
+	padding: 2px;
+}
+.box1{
+	height: 130px;
+	width: 33.33%;
+	box-sizing: border-box;
+	float: left;
+	padding: 2px;
+}
+.box2{
+	height: 130px;
+	width: 100%;
+	box-sizing: border-box;
+	float: left;
+	padding: 2px;
+	margin-top: 10px;
+}
+.box3{
+	height: 130px;
+	width: 50%;
+	box-sizing: border-box;
+	float: left;
+	padding: 2px;
+	margin-top: 10px;
+
+}
+.box3{
+	height: 130px;
+	width: 50%;
+	box-sizing: border-box;
+	float: left;
+	padding: 2px;
+}
+.box4{
+	height: 130px;
+	width: 70%;
+	box-sizing: border-box;
+	float: left;
+	padding: 2px;
+	margin-top: 10px;
+}
+
+.box5{
+	height: 130px;
+	width: 15%;
+	box-sizing: border-box;
+	float: left;
+	padding: 2px;
+	
+}
+.box5{
+	height: 130px;
+	width: 15%;
+	box-sizing: border-box;
+	float: left;
+	padding: 2px;
+	margin-top: 10px;
